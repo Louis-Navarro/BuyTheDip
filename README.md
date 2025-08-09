@@ -19,7 +19,7 @@ On the other hand, we can also expect institutional investors to overreact to ne
 
 ## Strategies
 
-### Dollar Cost Averaging (DCA)
+### Dollar Cost Averaging (DCA)
 
 DCA is a very common strategy among long-term passive investors. The idea is to invest a fix amount of cash into an asset at regular intervals, independently on the market's movement. For example, an investor could commit to invest $100 into the S&P500 at the end of every month.
 
