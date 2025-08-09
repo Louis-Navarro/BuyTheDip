@@ -1,0 +1,5 @@
+.DS_Store
+.env/
+*.cfg
+*.ipynb
+__pycache__/
